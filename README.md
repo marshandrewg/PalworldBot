@@ -1,0 +1,2 @@
+# PalworldBot
+A discord bot
